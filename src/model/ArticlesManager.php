@@ -1,6 +1,6 @@
 <?php
 
-class ArticlesManager extends Manager // héritage class Manager
+class ArticlesManager 
 {
 
 
